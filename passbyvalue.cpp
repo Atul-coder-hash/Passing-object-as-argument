@@ -2,7 +2,7 @@
 using namespace std;
 class sum
 {
-    int a,b;
+    int a,b,c,d;
     public:
         void input()
         {
